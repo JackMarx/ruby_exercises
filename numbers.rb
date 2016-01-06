@@ -1,0 +1,3 @@
+result = 
+
+p result.class
